@@ -1,5 +1,5 @@
 # KMeansDemo
-An simple program to show how OpenCV's KMeans works showing its visual output. This code is part of a (post on my blog about KMeans)[http://jeanvitor.com/k-means-image-segmentation-opencv/]. 
+An simple program to show how OpenCV's KMeans works showing its visual output. This code is part of a [post on my blog about KMeans](http://jeanvitor.com/k-means-image-segmentation-opencv/). 
 
 # How to use
 You will need a working OpenCV compilation. To learn how to install and use it with Eclipse & MinGW-w64 [take a look in a post on my blog](http://jeanvitor.com/cpp-opencv-windonws10-installing/). 
