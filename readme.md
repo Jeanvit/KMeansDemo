@@ -1,10 +1,10 @@
 # KMeansDemo
-An simple program to show how OpenCV's KMeans works showing its visual output. This code is part of a [post on my blog about KMeans](http://jeanvitor.com/k-means-image-segmentation-opencv/). 
+A simple program to show how OpenCV's KMeans works displaying its visual output in "real time". This code is part of a [post on my blog about KMeans](http://jeanvitor.com/k-means-image-segmentation-opencv/). 
 
 # How to use
 You will need a working OpenCV compilation. To learn how to install and use it with Eclipse & MinGW-w64 [take a look in a post on my blog](http://jeanvitor.com/cpp-opencv-windonws10-installing/). 
 
-This project was developed using Eclipse. Therefore, clone using `git clone` or download and open it as a Project, configure the Linker and Compiler to match your OpenCV folder.
+This project was developed using Eclipse. Therefore, clone using `git clone` or download and open it as a Project then configure the Linker and Compiler to match your OpenCV folder.
 
 For compiling with G++ (Considering the OpenCV 3.4 and folders `C:\opencv\install\include` & `C:\opencv\install\x64\mingw\lib`):
 
